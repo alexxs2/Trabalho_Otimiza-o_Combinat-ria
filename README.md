@@ -5,4 +5,4 @@ Trabalho da Matéria de Otimização Combinatória utilizando Programação line
 
 - Python para produzir os gráficos
 - Lingo para resolver os problemas de programação linear
-- Latex para fazer produzir o pdf
+- Latex para produzir o pdf
