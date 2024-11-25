@@ -1,2 +1,8 @@
-# Trabalho_Otimiza-o_Combinat-ria
+# Trabalho Otimização Combinatória
 Trabalho da Matéria de Otimização Combinatória utilizando Programação linear 
+
+**ferramentas utilizadas**
+
+- Python para produzir os gráficos
+- Lingo para resolver os problemas de programação linear
+- Latex para fazer produzir o pdf
